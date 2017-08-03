@@ -1,0 +1,18 @@
+{
+    "root": {
+        "Kodak": {
+            "palette": 256
+        },
+        "Test": {
+            "palette": 256            
+        },
+        "USC": {
+            "palette": 256,
+            "retina": 0,
+            "square": 1,
+            "width": 256
+        }
+    },
+    "source": "assets/",
+    "target": "output/"
+}
